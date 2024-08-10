@@ -9,6 +9,7 @@ h1 {
     background-color: #40E0D0;
     display: flex;
     justify-content: center;
+    border-radius: 10px;
 
 }
 .b1 {
