@@ -5,7 +5,6 @@ body {
 h1 {
     color: rgb(38, 0, 255);
     font-size: 75px;
-    padding: 0px 75px;
     font-style: italic;
     background-color: #40E0D0;
     display: flex;
