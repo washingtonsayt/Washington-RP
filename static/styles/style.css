@@ -1,0 +1,47 @@
+body {
+    background: url('https://sun9-1.userapi.com/impg/YvNiNO_HrTln8Hckngq_6vPkLYRn7ErkWqY4Cg/fggEymPnZv0.jpg?size=1079x893&quality=95&sign=940c29f5a191662d32af2318b3c43558&type=album') no-repeat;
+}
+
+h1 {
+    color: rgb(38, 0, 255);
+    font-size: 75px;
+    padding: 0px 75px;
+    font-style: italic;
+
+}
+.b1 {
+    background: rgb(207, 255, 246);
+    color: black;
+    outline: none;
+    border: none;
+    padding: 15px 25px;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.b2 {
+    background: rgb(207, 255, 246);
+    color: black;
+    outline: none;
+    border: none;
+    padding: 15px 25px;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 15px;
+}
+h2{
+    color: blue;
+    font-size: 30px;
+}
+
+.b3 {
+    background: rgb(207, 255, 246);
+    color: black;
+    outline: none;
+    border: none;
+    padding: 15px 25px;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 15px;
+}
