@@ -7,6 +7,10 @@ h1 {
     font-size: 75px;
     padding: 0px 75px;
     font-style: italic;
+    background-color: #40E0D0;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
 
 }
 .b1 {
